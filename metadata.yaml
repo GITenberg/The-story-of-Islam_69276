@@ -1,11 +1,16 @@
 _repo: The-story-of-Islam_69276
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69276-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Lunt, Theodore R. W.
     gutenberg_agent_id: '55193'
     url: http://www.gutenberg.org/2009/agents/55193
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69276#The-story-of-Islam
 gutenberg_issued: '2022-11-01'
 identifiers:
   gutenberg: '69276'
